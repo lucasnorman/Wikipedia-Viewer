@@ -1,0 +1,27 @@
+body {
+  font-family: "Roboto", Arial;
+  color: #000;
+  background-image:url("http://blog.hostbaby.com/wp-content/uploads/2014/03/PaintSquares_1920x1234.jpg");
+}
+
+.container {
+  margin: 100px auto auto auto;
+}
+
+h1 {
+  font-size: 6em;
+}
+
+h3 {
+  font-size: 3em;
+}
+
+#randomSearch {
+  height: 300px;
+  width: 300px;
+}
+
+#searchBar {
+  height: auto;
+  width: 750px;
+}
